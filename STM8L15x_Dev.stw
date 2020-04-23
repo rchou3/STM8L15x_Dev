@@ -6,3 +6,7 @@ Keyword=ST7Workspace-V0.7
 [Project0]
 Filename=stm8l15x_dev.stp
 Dependencies=
+[Options]
+ActiveProject=stm8l15x_dev
+ActiveConfig=Debug
+AddSortedElements=1
